@@ -11,8 +11,3 @@ Projeto desenvolvido em NextJs, estilizado em TailwindCss para estudos de layout
 
 
 -Tecnologias utilizadas: HTML. CSS. TAILWIND. REACT. NEXTJS. TYPESCRIPT.
-
--Bibliotecas: Shadcn-ui.
-
-
-
